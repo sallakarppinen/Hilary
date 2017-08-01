@@ -23,7 +23,7 @@
     "bunyan": "latest",
     "bunyan-prettystream": "latest",
     "chance": "latest",
-    "cheerio": "latest",
+    "cheerio": "0.22",
     "clone": "latest",
     "connect": "latest",
     "connect-redis": "latest",
@@ -41,19 +41,19 @@
     "globalize": "0.1.1",
     "gm": "latest",
     "helenus": "latest",
-    "juice": "latest",
+    "juice": "2.0",
     "less": "1.7.5",
     "locale": "latest",
     "lunr": "1.0.0",
-    "mailparser": "latest",
-    "marked": "latest",
+    "mailparser": "0.6.2",
+    "marked": "^0.3.6",
     "mime": "latest",
     "mixpanel": "latest",
     "mkdirp": "latest",
     "mobile-detect": "latest",
     "multiparty": "latest",
     "node-esapi": "latest",
-    "nodemailer": "latest",
+    "nodemailer": "2.4.1",
     "nodemailer-html-to-text": "latest",
     "nodemailer-sendmail-transport": "latest",
     "nodemailer-stub-transport": "latest",
@@ -156,7 +156,7 @@
     "oae-version"
   ],
   "engines": {
-    "node": "6.x"
+    "node": ">=6.11"
   },
   "scripts": {
     "test": "grunt"
